@@ -1,7 +1,7 @@
 # InstagramWeb_Clone
 This repository contains all the files of my Instagram Clone Website which I did during DevTown's 7Day Bootcamp on HTML and CSS
 
-Live Server : (https://mks42814.github.io/InstagramWeb_Clone/)
+Live Server 🖥️ : https://mks42814.github.io/InstagramWeb_Clone/
 
 ----------------------------------------------------**SCREENSHOTS**----------------------------------------------------------
 
